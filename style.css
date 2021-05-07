@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'roboto', 'sans-serifs';
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    display: inline-flex;
+    width: 200px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 580px;
+    font-size: 50px;
+    background-color: white;
+    color: black;
+}
